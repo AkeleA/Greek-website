@@ -166,7 +166,6 @@ form button {
     font-style: italic;
     font-size: 46.2px;
     text-align: center;
-    margin-bottom: 100px;
   }
 
   .cta-button {
@@ -179,6 +178,7 @@ form button {
     width: 284px;
     height: 70px;
     border: none;
+    margin-top: 100px;
   }
 
   .bottom-section {
